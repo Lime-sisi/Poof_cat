@@ -1,0 +1,1 @@
+In Mac's Finder, add this AppleScript generated app to toolbar to hide file(s) or folder(s) immediately.
